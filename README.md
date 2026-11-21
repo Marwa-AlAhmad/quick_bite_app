@@ -1,17 +1,34 @@
-# course_flutter_practice2
+# 🍔 BiteCart - Food Ordering App
 
-A new Flutter project.
+A clean and responsive Flutter mobile application for browsing fast-food items and managing a shopping cart in real time using **Provider** state management.
 
-## Getting Started
+## ✨ Features
+* **Menu Browsing:** Smooth horizontal scrolling cards displaying meals, images, and prices.
+* **Real-Time Cart Management:** Add or remove items instantly with automatic updates to the total item count and total price.
+* **Clean Architecture:** Well-structured codebase separating UI components, data models, and business logic.
+* **Responsive UI:** Consistent color palette and modern card-based layout.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+* **Flutter** & **Dart**
+* **Provider** (State Management)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+To run this project locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd YOUR_REPO_NAME
+   ```
+3. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+4. **Run the app:**
+   ```bash
+   flutter run
+   ```

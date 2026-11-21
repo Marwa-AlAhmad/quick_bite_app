@@ -8,6 +8,10 @@ A clean and responsive Flutter mobile application for browsing fast-food items a
 * **Clean Architecture:** Well-structured codebase separating UI components, data models, and business logic.
 * **Responsive UI:** Consistent color palette and modern card-based layout.
 
+## 📱 Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## 🛠️ Built With
 * **Flutter** & **Dart**
 * **Provider** (State Management)
